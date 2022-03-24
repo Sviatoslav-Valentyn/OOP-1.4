@@ -1,0 +1,6 @@
+﻿  Menu.cpp
+C:\Users\Asus\Desktop\ООП 1.4\lab 1.4\ReceivedRecords.h(43,34): error C2664: "void records::setAvgMark(int)": невозможно преобразовать аргумент 1 из "std::string" в "int"
+C:\Users\Asus\Desktop\ООП 1.4\lab 1.4\ReceivedRecords.h(43,33): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Users\Asus\Desktop\ООП 1.4\lab 1.4\records.h(17,7): message : см. объявление "records::setAvgMark"
+  records.cpp
+  Создание кода...
